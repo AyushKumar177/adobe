@@ -12,7 +12,7 @@ The primary objective of this project is to develop a comprehensive framework fo
 
 ## Theoretical Background
 
-### 2D Euclidean Space
+### 2D Euclidean Spaces
 
 2D Euclidean space, denoted as \( \mathbb{R}^2 \), is a two-dimensional plane characterized by an orthogonal coordinate system. In this space, each point is represented by a pair of coordinates \((x, y)\). Curves in this space can be described by a continuous set of points, which we aim to represent using cubic Bézier curves.
 
